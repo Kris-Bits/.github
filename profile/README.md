@@ -1,13 +1,35 @@
-## Hi there 👋
+## Hi there, im Kris read below! 👋
 ![My project](https://user-images.githubusercontent.com/75515498/153982839-f8c11b28-57a0-4017-bc95-87915a5ff9ae.png)
 
-<!--
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-**Here are some ideas to get you started:**
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Me
+
+- Personal Git @krisxkrazy
+- Software Engineer, Ethical Hacker, 3d designer, former esports manager
+- source code archiver, game scripter.
+- Privacy & Security Informant 
+- pdf archiver & preserver of knowledge 
+
+KrisBits is less of a project and more of a collective of ideas I wanted to create
+but did not need on profile.
+
+> Game Scripts
+> VRM & MMD models
+> personal & public dotfiles
+> Unrealeased mp3 files
+> free pdf library 
+
+## Find Me
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Me | README |
+| ------ | ------ |
+| Twitter | [https://twitter.com/krisxkrazy][PlGd] |
+| GitHub | [https://github.com/krisxkrazy][PlGd] |
+| Steam | [https://steamcommunity.com/id/krisxkrazy/][PlGd] |
+| roblox| [https://www.roblox.com/users/279786192/profile][PlGd] |
+| Medium | [https://krisxkrazy.medium.com/][PlGa] |
