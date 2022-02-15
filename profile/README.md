@@ -16,15 +16,15 @@
 KrisBits is less of a project and more of a collective of ideas I wanted to create
 but did not need on profile.
 
-> Game Scripts
-> VRM & MMD models
-> personal & public dotfiles
-> Unrealeased mp3 files
-> free pdf library 
+> Game Scripts,
+> VRM & MMD models,
+> personal & public dotfiles,
+> Unrealeased mp3 files,
+> free pdf library
 
 ## Find Me
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+
+you can currently find me on any of the platforms below!
 
 | Me | README |
 | ------ | ------ |
