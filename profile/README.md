@@ -28,8 +28,8 @@ you can currently find me on any of the platforms below!
 
 | Me | README |
 | ------ | ------ |
-| Twitter | [https://twitter.com/krisxkrazy][PlGd] |
-| GitHub | [https://github.com/krisxkrazy][PlGd] |
-| Steam | [https://steamcommunity.com/id/krisxkrazy/][PlGd] |
-| roblox| [https://www.roblox.com/users/279786192/profile][PlGd] |
-| Medium | [https://krisxkrazy.medium.com/][PlGa] |
+| Twitter | https://twitter.com/krisxkrazy |
+| GitHub | https://github.com/krisxkrazy |
+| Steam | https://steamcommunity.com/id/krisxkrazy/ |
+| roblox| https://www.roblox.com/users/279786192/profile |
+| Medium | https://krisxkrazy.medium.com/ |
