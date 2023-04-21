@@ -1,4 +1,4 @@
-## Hi there, im Kris read below! 👋
+## Hi there, im krisctf read below! 👋
 ![My project](https://user-images.githubusercontent.com/75515498/153982839-f8c11b28-57a0-4017-bc95-87915a5ff9ae.png)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -7,9 +7,9 @@
 
 ## About Me
 
-- Personal Git @krisxkrazy
-- Software Engineer, Ethical Hacker, 3d designer, former esports manager
-- source code archiver, game scripter.
+- Personal Git @krisofakind
+- Data Science, Prompt Engineer, Machine Learning, Ethical Hacker, 3d designer, former esports manager
+- source code archiver, game scripter
 - Privacy & Security Informant 
 - pdf archiver & preserver of knowledge 
 
@@ -28,8 +28,7 @@ you can currently find me on any of the platforms below!
 
 | Me | README |
 | ------ | ------ |
-| Twitter | https://twitter.com/krisxkrazy |
-| GitHub | https://github.com/krisxkrazy |
+| GitHub | https://github.com/krisofakind |
 | Steam | https://steamcommunity.com/id/krisxkrazy/ |
 | roblox| https://www.roblox.com/users/279786192/profile |
 | Medium | https://krisxkrazy.medium.com/ |
