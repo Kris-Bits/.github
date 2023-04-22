@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=31&pause=1000&color=622F2F&center=true&width=435&lines=Welcome+To+Kris+Bits)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=100&pause=1000&color=622F2F&center=true&width=435&lines=Welcome+To+Kris+Bits" alt="Typing SVG" /></a>
+
 ![My project](https://user-images.githubusercontent.com/75515498/153982839-f8c11b28-57a0-4017-bc95-87915a5ff9ae.png)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
