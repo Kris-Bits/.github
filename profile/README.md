@@ -4,7 +4,10 @@
   </a>
 </div>
 
-![serial-experiments-lain-lain](serial-experiments-lain-lain.gif)
+<p align="center">
+  <img src="serial-experiments-lain-lain.gif" width="100%" alt="serial-experiments-lain-lain">
+</p>
+
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
