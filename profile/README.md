@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="serial-experiments-lain-lain.gif" width="100%" alt="serial-experiments-lain-lain">
+  <img src="https://github.com/kris-bits/.github/blob/b0134d4d210493b78c514cab37976d1e8e6afcad/profile/serial-experiments-lain-lain.gif" width="100%" alt="serial-experiments-lain-lain">
 </p>
 
 
