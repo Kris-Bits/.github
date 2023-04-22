@@ -1,6 +1,9 @@
-<center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=40&pause=1000&color=622F2F&center=true&width=435&lines=Welcome+To+Kris+Bits" alt="Typing SVG" /></a>
- </center>
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=40&pause=1000&color=622F2F&center=true&width=435&lines=Welcome+To+Kris+Bits" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ![My project](https://user-images.githubusercontent.com/75515498/153982839-f8c11b28-57a0-4017-bc95-87915a5ff9ae.png)
 
