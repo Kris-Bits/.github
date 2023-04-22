@@ -4,8 +4,7 @@
   </a>
 </div>
 
-
-![serial-experiments-lain-lain](.github/profile/serial-experiments-lain-lain.gif)
+![serial-experiments-lain-lain](serial-experiments-lain-lain.gif)
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
